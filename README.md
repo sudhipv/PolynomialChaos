@@ -2,6 +2,9 @@
 
 MATLAB experiments for building polynomial chaos surrogates of lognormal random processes and variables. The scripts walk through Karhunen–Loève expansions (KLE), Monte Carlo sampling, and both intrusive and non-intrusive PCE workflows for 1-D, 2-D, and 3-D domains with exponential covariance kernels.
 
+<img width="770" height="840" alt="Screenshot 2025-12-25 at 5 45 18 PM" src="https://github.com/user-attachments/assets/396fb329-e54d-4760-8ea6-c3b9b67c36f8" />
+
+
 ## Repository Structure
 
 | Path | Highlights |
