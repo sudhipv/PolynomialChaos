@@ -35,6 +35,28 @@ MATLAB experiments for building polynomial chaos surrogates of lognormal random 
 3. To switch between intrusive vs non-intrusive formulations, reuse the Hermite basis definitions shown in the `Lognormal/` scripts—only the coefficient estimation block needs to change.
 4. Use the plotting sections (e.g., cumulative energy plots) as quick diagnostics for how many modes are needed to capture the variance you care about before running expensive Monte Carlo studies.
 
+## Reference
+
+> **[Scalable Domain Decomposition Methods for Nonlinear and Time-Dependent Stochastic Systems](https://doi.org/10.22215/etd/2023-15817)**
+
+**Authors:** Sudhi Sharma Padillath Vasudevan
+**Institution:** Carleton University (2023)  
+**DOI:** [10.22215/etd/2023-15817](https://doi.org/10.22215/etd/2023-15817)
+
+<details>
+<summary><b>Click to expand BibTeX citation</b></summary>
+
+```bibtex
+@phdthesis{vasudevan2023scalable,
+  title={Scalable Domain Decomposition Methods for Nonlinear and Time-Dependent Stochastic Systems},
+  author={Vasudevan, Padillath and Sharma, Sudhi},
+  year={2023},
+  school={Carleton University},
+  doi={10.22215/etd/2023-15817}
+}
+\```
+</details>
+
 ## Questions ?
 
 Contact : Sudhi Sharma P V  
